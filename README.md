@@ -1,1 +1,1 @@
-# springmvc-jpa-spring-data
+# springmvc-many-2-many
